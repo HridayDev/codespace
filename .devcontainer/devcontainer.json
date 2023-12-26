@@ -1,0 +1,5 @@
+{
+  "name": "Your CodeSpace Name",
+  "dockerFile": "DOCKERFILE",
+  "postCreateCommand": "echo Codespace Done!"
+}
