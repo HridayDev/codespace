@@ -1,5 +1,11 @@
 {
   "name": "Your CodeSpace Name",
   "dockerFile": "DOCKERFILE",
-  "postCreateCommand": "echo Codespace Done!"
+  "postCreateCommand": "echo Codespace Done!",
+  "hostRequirements": {
+   "cpus": 4,
+   "memory": "16gb",
+   "storage": "64gb"
+}
+
 }
